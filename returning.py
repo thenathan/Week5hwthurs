@@ -12,4 +12,5 @@ print str(my_at_content)
 print get_at_content("ATGCATGCAACTGTAGC")
 print get_at_content("aactgtagctagctagcagcgta")
 
+#for bonus, the script needs to calculate AT content for for sequences like "TTCGNNN" and "tnnacgnnat". This program already does that without any additions...
 
